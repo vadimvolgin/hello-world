@@ -1,3 +1,2 @@
-# hello-world
-This is my first github repo.
-*writing sth about me*
+update1
+we added new cool stuff u can do
